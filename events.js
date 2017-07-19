@@ -1,10 +1,5 @@
 console.log('hello world');
-/**
 
-✏️ Output target is the output-target element.
-5. When any section is clicked the output target text should be "You clicked on the {text of the section} section"
-
-**/
 
 
 let out = document.getElementById('output-target'); //where text will be placed
